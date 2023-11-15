@@ -14,6 +14,7 @@ Machine learning models investigated:
 
 - **Feedforward Neural Network**
 
+---
 
 
 The **full project report** is provided here in both **.html** and **.ipynb** format.
