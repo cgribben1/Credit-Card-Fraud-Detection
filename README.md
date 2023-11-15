@@ -14,5 +14,6 @@ Machine learning models investigated:
 
 - **Feedforward Neural Network**
 
-The **full project report** is provided here in both **.html** and **.ipynb** format. 
+The **full project report** is provided here in both **.html** and **.ipynb** format.
+
 (N.B. you will have to open the .ipynb file in a Jupyter notebook to be able to make use of the section links within the ToC)
