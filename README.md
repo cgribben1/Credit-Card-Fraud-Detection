@@ -1,4 +1,5 @@
 # Credit Card Fraud Detection Using Several Machine Learning Models
+---
 It is important that credit card companies are able to recognize fraudulent credit card transactions so that customers are not charged for items that they did not purchase. 
 
 In this project, I create and compare several different machine learning models in order to tackle the problem of credit fraud detection.
